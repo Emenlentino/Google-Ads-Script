@@ -1,5 +1,10 @@
+## 11. **`requirements.txt`** (Dependencies)
+
 google-ads
-pyqt5
+rich
+PyQt5
 schedule
 pandas
+tensorflow
 scikit-learn
+numpy

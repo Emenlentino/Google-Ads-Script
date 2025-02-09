@@ -1,0 +1,8 @@
+## 4. **`config/google_ads.yaml`** (Google Ads Configuration)
+
+developer_token: "INSERT_YOUR_DEVELOPER_TOKEN"
+client_id: "INSERT_YOUR_CLIENT_ID"
+client_secret: "INSERT_YOUR_CLIENT_SECRET"
+refresh_token: "INSERT_YOUR_REFRESH_TOKEN"
+login_customer_id: "INSERT_YOUR_LOGIN_CUSTOMER_ID"
+use_proto_plus: true
