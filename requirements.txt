@@ -1,0 +1,5 @@
+google-ads
+pyqt5
+schedule
+pandas
+scikit-learn
